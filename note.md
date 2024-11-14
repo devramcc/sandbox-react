@@ -39,3 +39,9 @@ export default function App() {
   )
 }
 ```
+
+# Others Package
+
+```bash
+pnpm install prop-types @heroicons/react daisyui react-hot-toast react-router-dom @reduxjs/toolkit
+```
