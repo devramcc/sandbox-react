@@ -43,7 +43,7 @@ export default function App() {
 # Others Package
 
 ```bash
-pnpm install prop-types @heroicons/react daisyui react-hot-toast react-router-dom @reduxjs/toolkit react-redux axios react-hook-form
+pnpm install prop-types @heroicons/react daisyui react-hot-toast react-router-dom @reduxjs/toolkit react-redux axios react-hook-form react-lottie
 ```
 
 # DaisyUI Theme
